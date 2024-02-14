@@ -1,6 +1,6 @@
 ## Desafio de Empréstimos
 
-Este é um serviço simples que determina quais modalidades de empréstimo uma pessoa tem acesso com base em sua idade, salário e localização.
+Este é um serviço simples que determina quais modalidades de empréstimo uma pessoa tem acesso com base em sua idade, salário e localização. Este desafio faz parte do repositório [backend-br](https://github.com/backend-br).
 
 ## Funcionalidades
 
